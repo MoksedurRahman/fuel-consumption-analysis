@@ -33,14 +33,13 @@ fuel-consumption-analysis/
 │   └── FuelConsumption.csv         # Original dataset  
 │
 ├── notebooks/  
-│   └── fuel_analysis.ipynb         # Main analysis notebook  
+│   └── fuel-consumption-analysis.ipynb         # Main analysis notebook  
 │
 ├── images/  
 │   └── *.png                       # Exported plots  
 │
 ├── src/  
-│   └── data_loader.py              # Script to load and preprocess data  
-│   └── visualizations.py           # Custom plotting functions  
+│   └── fuel-consumption-analysis.py    # Script to load and preprocess data  
 │
 ├── README.md                       # Project description and summary  
 ├── requirements.txt                # List of dependencies  
