@@ -7,6 +7,14 @@ Fuel Efficiency Analysis and Visualization using Python
 ## 📊 Overview
 This project analyzes the `FuelConsumption.csv` dataset to explore how engine size, cylinders, and fuel consumption affect CO2 emissions. It includes data cleaning, visualizations, and a regression model to predict emissions using Python.
 
+## Dataset
+- Source: Natural Resources Canada (FuelConsumption.csv)
+- Features: Engine Size, Cylinders, Fuel Consumption (City, Hwy, Combined), CO₂ Emissions
+
+## Objectives
+- Understand feature relationships and trends.
+- Identify key contributors to CO₂ emissions.
+- Provide visual insights using charts.
 
 ## 🧰 Tools & Libraries
 
