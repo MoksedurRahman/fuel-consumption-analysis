@@ -19,18 +19,18 @@ This project analyzes the `FuelConsumption.csv` dataset to explore how engine si
 
 ## 📁 Folder Structure
 
-fuel-consumption-analysis/
+fuel-consumption-analysis/  
 │
-├── data/
+├── data/  
 │   └── FuelConsumption.csv         # Original dataset
 │
-├── notebooks/
+├── notebooks/  
 │   └── fuel_analysis.ipynb         # Main analysis notebook
 │
-├── images/
+├── images/  
 │   └── *.png                       # Exported plots
 │
-├── src/
+├── src/  
 │   └── data_loader.py              # Script to load and preprocess data
 │   └── visualizations.py           # Custom plotting functions
 │
