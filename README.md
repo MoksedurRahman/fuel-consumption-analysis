@@ -22,21 +22,21 @@ This project analyzes the `FuelConsumption.csv` dataset to explore how engine si
 fuel-consumption-analysis/  
 │
 ├── data/  
-│   └── FuelConsumption.csv         # Original dataset
+│   └── FuelConsumption.csv         # Original dataset  
 │
 ├── notebooks/  
-│   └── fuel_analysis.ipynb         # Main analysis notebook
+│   └── fuel_analysis.ipynb         # Main analysis notebook  
 │
 ├── images/  
-│   └── *.png                       # Exported plots
+│   └── *.png                       # Exported plots  
 │
 ├── src/  
-│   └── data_loader.py              # Script to load and preprocess data
-│   └── visualizations.py           # Custom plotting functions
+│   └── data_loader.py              # Script to load and preprocess data  
+│   └── visualizations.py           # Custom plotting functions  
 │
-├── README.md                       # Project description and summary
-├── requirements.txt                # List of dependencies
-└── .gitignore                      # Ignore unnecessary files
+├── README.md                       # Project description and summary  
+├── requirements.txt                # List of dependencies  
+└── .gitignore                      # Ignore unnecessary files  
 
 
 ## 🚀 How to Run
