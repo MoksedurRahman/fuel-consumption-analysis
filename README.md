@@ -30,7 +30,7 @@ This project analyzes the `FuelConsumption.csv` dataset to explore how engine si
 fuel-consumption-analysis/  
 │
 ├── data/  
-│   └── FuelConsumption.csv         # Original dataset  
+│     └── FuelConsumption.csv         # Original dataset  
 │
 ├── notebooks/  
 │   └── fuel-consumption-analysis.ipynb         # Main analysis notebook  
